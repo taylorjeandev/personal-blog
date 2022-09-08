@@ -45,7 +45,7 @@ const Home = (): ReactElement => {
               <p className="about-description">
                 {t.about.imBrazilian}{" "}
                 <Link
-                  href="https://www.cisco.com/c/en_ca/index.html/"
+                  href="https://www.linkedin.com/company/100devs/mycompany/"
                   isExternal
                 >
                   {t.about.company}
@@ -166,10 +166,10 @@ const Home = (): ReactElement => {
               <p>
                 <Link
                   color="blue.500"
-                  href="https://twitter.com/candidosales"
+                  href="https://twitter.com/taylorjeandev"
                   isExternal
                 >
-                  @candidosales
+                  @taylorjeandev
                 </Link>
               </p>
             </Box>

@@ -20,9 +20,9 @@ const Topbar = ({changeLanguage, locale}): ReactElement => {
     <header className="header">
       <div className="avatar">
         <Image
-          src="/me-2.png"
-          width={100}
-          height={100}
+          src="/pwa/IMG_3750-removebg-preview.png"
+          width={150}
+          height={150}
           alt="Profile image"
           title="Profile image"
           loading="lazy"
@@ -35,7 +35,7 @@ const Topbar = ({changeLanguage, locale}): ReactElement => {
           onChange={changeLanguage}
         >
           <option value="en-US">🇺🇸</option>
-          <option value="pt-BR">🇧🇷</option>
+          {/* <option value="pt-BR">🇧🇷</option> */}
         </Select>
       </div>
       <div className="header-actions">
@@ -49,7 +49,7 @@ const Topbar = ({changeLanguage, locale}): ReactElement => {
           {t.getInTouch}
         </Button>
         <Tooltip hasArrow label="" placement="auto">
-          <Link href="https://www.linkedin.com/in/candidosales/" isExternal>
+          <Link href="https://www.linkedin.com/in/taylorjeandev/" isExternal>
             <IconButton
               variant="ghost"
               size="md"
@@ -59,7 +59,7 @@ const Topbar = ({changeLanguage, locale}): ReactElement => {
           </Link>
         </Tooltip>
         <Tooltip hasArrow label="" placement="auto">
-          <Link href="https://medium.com/@candidosales" isExternal>
+          <Link href="https://medium.com/@taylorgjean" isExternal>
             <IconButton
               variant="ghost"
               size="md"
@@ -69,7 +69,7 @@ const Topbar = ({changeLanguage, locale}): ReactElement => {
           </Link>
         </Tooltip>
         <Tooltip hasArrow label="" placement="auto">
-          <Link href="https://github.com/candidosales" isExternal>
+          <Link href="https://github.com/taylorjeandev" isExternal>
             <IconButton
               variant="ghost"
               size="md"

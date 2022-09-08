@@ -3,12 +3,12 @@ export default {
   getInTouch: "Get in touch",
   about: {
     hiMyNameIs: "Hi, my name is",
-    name: "Cândido Sales.",
+    name: "Taylor Jean.",
     buildThings: "I build things for",
     webAndMobile: "the web and mobile.",
     imBrazilian:
-      "I'm Brazilian 🇧🇷 from Piauí and a Kitchener-based 🇨🇦  software engineer who specializes in building (and occasionally designing) exceptional digital experiences. Currently, I work at",
-    company: "Cisco",
+      "I'm a westcoast Canadian from Vancouver Island and Norway based software engineer who specializes in building exceptional digital experiences. Currently, I work at",
+    company: "100devs",
     focusedOnBuilding:
       "focused on building accessible, human-centred products.",
   },

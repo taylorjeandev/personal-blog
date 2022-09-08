@@ -22,33 +22,33 @@ class MyDocument extends Document {
     return (
       <Html lang="en">
         <Head>
-          <link rel="canonical" href="https://www.candidosales.me/" />
-          <link rel="shortcut icon" href="/favicon.png" type="image/png" />
+          <link rel="canonical" href="https://www.taylorjeandev.netlify.app/" />
+          <link rel="shortcut icon" href="/favicon.png" type="public/pwa/IMG_3750-removebg-preview.png" />
           <meta httpEquiv="X-UA-Compatible" content="IE=edge" />
           <meta
             name="description"
-            content="Portfolio, side projects, the blog of the Candido Sales Gomes and among other things"
+            content="Portfolio, side projects, the blog of Taylor Jean and among other things"
           />
           <meta property="og:locale" content="en" />
           <meta property="og:type" content="website" />
           <meta
             property="og:title"
-            content="Candido Sales Gomes - Developer, creator"
+            content="Taylor Jean - Developer, Creator"
           />
-          <meta property="og:site_name" content="Candido Sales Gomes" />
+          <meta property="og:site_name" content="Taylor Jean" />
           <meta
             property="og:description"
-            content="Portfolio, side projects, the blog of the Candido Sales Gomes and among other things"
+            content="Portfolio, side projects, the blog of Taylor Jean and among other things"
           />
-          <meta property="og:url" content="https://www.candidosales.me/" />
-          <meta
+          <meta property="og:url" content="https://www.taylorjeandev.netlify.app" />
+          {/* <meta
             property="og:image"
             content="https://www.candidosales.me/card-social-media-1200.png"
-          />
+          /> */}
           <meta property="og:image:width" content="1200" />
           <meta property="og:image:height" content="730" />
-          <meta name="twitter:creator" content="@candidosales" />
-          <meta name="twitter:site" content="@candidosales" />
+          <meta name="twitter:creator" content="@taylorjeandev" />
+          <meta name="twitter:site" content="@taylorjeandev" />
           <meta name="twitter:card" content="summary_large_image" />
           <meta
             name="twitter:image"
