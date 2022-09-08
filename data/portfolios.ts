@@ -1,47 +1,30 @@
 export const portfolio = [
-  // {
-  //   imageUrl: "/dependency-report-optimized.gif",
-  //   imageAlt: "Dependencies report",
-  //   title: "Dependencies report",
-  //   description:
-  //     "Dependencies report aims to help analyze the consistency of the dependencies in your company's frontend projects.",
-  //   url: "https://github.com/candidosales/dependency-report",
-  //   techs: [
-  //     {
-  //       icon: "angular",
-  //       name: "Angular",
-  //     },
-  //     {
-  //       icon: "go",
-  //       name: "Go",
-  //     },
-  //     {
-  //       icon: "firebase",
-  //       name: "Firebase",
-  //     },
-  //     {
-  //       icon: "docker",
-  //       name: "Docker",
-  //     },
-  //   ],
-  // },
-  // {
-  //   imageUrl: "/cloud-function-go.png",
-  //   imageAlt: "API in GO to create Cloud Function",
-  //   title: "API in GO to create Cloud Function",
-  //   description: "🐹 An API for deploying Google Cloud Functions in Go.",
-  //   url: "https://github.com/candidosales/cloud-function-go",
-  //   techs: [
-  //     {
-  //       icon: "go",
-  //       name: "Go",
-  //     },
-  //     {
-  //       icon: "google-cloud",
-  //       name: "Google Cloud",
-  //     },
-  //   ],
-  // },
+  {
+    imageUrl: "/costcashgif_AdobeExpress.gif",
+    imageAlt: "Cost Cash Budget App",
+    title: "Cost Cash Budget App",
+    description:
+      "Cost Cash Budget App is a simple budget-tracking app built using the MVC Architecture with 'authorization' so folx can sign up, customize & personalize the app",
+    url: "https://github.com/taylorjeandev/todo-mvc-auth-local",
+    techs: [
+      {
+        icon: "bootstrap",
+        name: "Bootstrap",
+      },
+      {
+        icon: "node",
+        name: "Node",
+      },
+      {
+        icon: "mongodb",
+        name: "MongoDB",
+      },
+      {
+        icon: "npm",
+        name: "NPM",
+      },
+    ],
+  },
   // {
   //   imageUrl: "/material-time-picker.gif",
   //   imageAlt: "Material Time Picker",
@@ -187,6 +170,69 @@ export const portfolio = [
 ];
 
 export const extras = [
+  {
+    imageUrl: "/Hair Salon Photo 1.jpeg",
+    imageAlt: "Hair Salon Clone",
+    title: "Hair Salon Clone",
+    description: "A responsive web design built to display the professionalism of each stylist",
+    url: "https://ayeshashairsalon.netlify.app/",
+    techs: [
+      {
+        icon: "netlify",
+        name: "Netlify",
+      },
+      {
+        icon: "css3",
+        name: "CSS3",
+      },
+      {
+        icon: "javascript",
+        name: "Javascript",
+      },
+    ],
+  },
+  {
+    imageUrl: "/Screen Shot 2022-08-24 at 8.56.48 PM.png",
+    imageAlt: "Level Ground MMA",
+    title: "Level Ground MMA Clone",
+    description: "A sleek and modern website built with a minimalistic approach and bold colours.",
+    url: "https://levelgroundmartialarts.netlify.app",
+    techs: [
+      {
+        icon: "netlify",
+        name: "Netlify",
+      },
+      {
+        icon: "css3",
+        name: "CSS3",
+      },
+      {
+        icon: "javascript",
+        name: "Javascript",
+      },
+    ],
+  },
+  {
+    imageUrl: "/Screen Shot 2022-08-24 at 8.49.39 PM.png",
+    imageAlt: "Twisted Fork Clone",
+    title: "Twisted Fork Clone",
+    description: "A beautiful, elegant and effective restaraunt website design.",
+    url: "https://twistedforkcuisine.netlify.app/",
+    techs: [
+      {
+        icon: "netlify",
+        name: "Netlify",
+      },
+      {
+        icon: "css3",
+        name: "CSS3",
+      },
+      {
+        icon: "javascript",
+        name: "Javascript",
+      },
+    ],
+  },
   // {
   //   imageUrl: "/were-not-really-strangers.png",
   //   imageAlt: "We're Not Really Strangers",
@@ -288,31 +334,19 @@ export const extras = [
 ];
 
 export const volunteer = [
-  // {
-  //   imageUrl: "/geleia-total.gif",
-  //   imageAlt: "Geleia Total",
-  //   title: "Geleia Total",
-  //   description: "Promote the culture and art of the state of Piauí - 🇧🇷",
-  //   url: "https://www.geleiatotal.com.br/",
-  //   techs: [
-  //     {
-  //       icon: "wordpress",
-  //       name: "Wordpress",
-  //     },
-  //     {
-  //       icon: "php",
-  //       name: "PHP",
-  //     },
-  //     {
-  //       icon: "digitalocean",
-  //       name: "Digital Ocean",
-  //     },
-  //     {
-  //       icon: "pwa",
-  //       name: "PWA",
-  //     },
-  //   ],
-  // },
+  {
+    imageUrl: "/Pasts GIF.gif",
+    imageAlt: "Pasts",
+    title: "Pasts",
+    description: "Contribute to open source project - 'Past' - Minimal and simpler alternative to the futures crate. ",
+    url: "https://github.com/taylorjeandev/pasts",
+    techs: [
+      {
+        icon: "rust",
+        name: "Rust",
+      },
+    ],
+  },
   // {
   //   imageUrl: "/mapa-aborto-legal.gif",
   //   imageAlt: "Mapa Aborto Legal",
