@@ -1,32 +1,32 @@
 {
-  "name": "Candido Sales Gomes",
-  "short_name": "Candido Sales",
+  "name": "Taylor Jean",
+  "short_name": "Taylor",
   "icons": [
     {
-      "src": "/pwa/icon-144.png",
+      "src": "/headshot.png",
       "type": "image/png",
       "sizes": "144x144",
       "purpose": "maskable any"
     },
     {
-      "src": "/pwa/icon-192.png",
+      "src": "/headshot.png",
       "type": "image/png",
       "sizes": "192x192",
       "purpose": "maskable any"
     },
     {
-      "src": "/pwa/icon-512.png",
+      "src": "/headshot.png",
       "type": "image/png",
       "sizes": "512x512",
       "purpose": "maskable any"
     }
   ],
   "background_color": "#ffffff",
-  "description": "Candido Sales Gomes - Portfolio",
+  "description": "Taylor Jean - Portfolio",
   "display": "standalone",
   "orientation": "portrait",
   "start_url": "/",
-  "scope": "https://www.candidosales.me/",
+  "scope": "https://personal-blog-tau-liard.vercel.app/",
   "theme_color": "#ffffff",
   "prefer_related_applications": true
 }
