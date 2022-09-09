@@ -22,7 +22,7 @@ class MyDocument extends Document {
     return (
       <Html lang="en">
         <Head>
-          <link rel="canonical" href="https://www.taylorjeandev.netlify.app/" />
+          <link rel="canonical" href="https://personal-blog-tau-liard.vercel.app/" />
           <link rel="shortcut icon" href="/pwa/headshot.png" type="/pwa/headshot.png" />
           <meta httpEquiv="X-UA-Compatible" content="IE=edge" />
           <meta
@@ -43,7 +43,7 @@ class MyDocument extends Document {
           <meta property="og:url" content="https://personal-blog-tau-liard.vercel.app/" />
           <meta
             property="og:image"
-            content="/themecard.png"
+            content="/pwa/themecard.png"
           />
           <meta property="og:image:width" content="1200" />
           <meta property="og:image:height" content="730" />
@@ -52,7 +52,7 @@ class MyDocument extends Document {
           <meta name="twitter:card" content="summary_large_image" />
           <meta
             name="twitter:image"
-            content="/themecard.png"
+            content="/pwa/themecard.png"
           />
           <meta name="theme-color" content="#ffffff" />
           <link rel="shortcut icon" href="/pwa/headshot.png" />
