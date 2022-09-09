@@ -23,7 +23,7 @@ class MyDocument extends Document {
       <Html lang="en">
         <Head>
           <link rel="canonical" href="https://www.taylorjeandev.netlify.app/" />
-          <link rel="shortcut icon" href="/headshot.png" type="/headshot.png" />
+          <link rel="shortcut icon" href="/pwa/headshot.png" type="/pwa/headshot.png" />
           <meta httpEquiv="X-UA-Compatible" content="IE=edge" />
           <meta
             name="description"
@@ -40,7 +40,7 @@ class MyDocument extends Document {
             property="og:description"
             content="Portfolio, side projects, the blog of Taylor Jean and among other things"
           />
-          <meta property="og:url" content="https://www.taylorjeandev.netlify.app" />
+          <meta property="og:url" content="https://personal-blog-tau-liard.vercel.app/" />
           <meta
             property="og:image"
             content="/themecard.png"
@@ -55,8 +55,8 @@ class MyDocument extends Document {
             content="/themecard.png"
           />
           <meta name="theme-color" content="#ffffff" />
-          <link rel="shortcut icon" href="/pwa/icon-512.png" />
-          <link rel="apple-touch-icon" href="/pwa/icon-512.png" />
+          <link rel="shortcut icon" href="/pwa/headshot.png" />
+          <link rel="apple-touch-icon" href="/pwa/headshot.png" />
           <link rel="manifest" href="/manifest.json" />
           <link rel="preconnect" href="https://fonts.googleapis.com"></link>
           <link rel="preconnect" href="https://fonts.gstatic.com"></link>
