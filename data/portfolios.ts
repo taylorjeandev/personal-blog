@@ -368,14 +368,14 @@ export const volunteer = [
 ];
 
 export const posts = [
-  // {
-  //   imageUrl: "/post-strapi-digital-ocean.webp",
-  //   imageAlt: "Deploying Strapi 4 to Digital Ocean App",
-  //   title: "Deploying Strapi 4 to Digital Ocean App",
-  //   description:
-  //     "Step by step on how to deploying Strapi 4 to Digital Ocean App",
-  //   url: "https://dev.to/candidosales/deploying-strapi-4-to-digital-ocean-app-1d8d",
-  // },
+  {
+    imageUrl: "/MVC thumbnail.jpeg",
+    imageAlt: "MVC Architecture ",
+    title: "MVC Architecture",
+    description:
+      "A lecture about the pros & cons of using the MVC architecture",
+    url: "https://medium.com/@taylorjeandev/mvc-architecture-2d4ebece6d32",
+  },
   // {
   //   imageUrl: "/post-strapi-railway.webp",
   //   imageAlt: "Deploying Strapi 4 to Railway",

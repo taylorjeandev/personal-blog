@@ -59,7 +59,7 @@ const Topbar = ({changeLanguage, locale}): ReactElement => {
           </Link>
         </Tooltip>
         <Tooltip hasArrow label="" placement="auto">
-          <Link href="https://medium.com/@taylorgjean" isExternal>
+          <Link href="https://medium.com/@taylorjeandev" isExternal>
             <IconButton
               variant="ghost"
               size="md"

@@ -23,7 +23,7 @@ class MyDocument extends Document {
       <Html lang="en">
         <Head>
           <link rel="canonical" href="https://www.taylorjeandev.netlify.app/" />
-          <link rel="shortcut icon" href="/favicon.png" type="public/pwa/IMG_3750-removebg-preview.png" />
+          <link rel="shortcut icon" href="/pwa/IMG_3750-removebg-preview.png.png" type="/pwa/IMG_3750-removebg-preview.png" />
           <meta httpEquiv="X-UA-Compatible" content="IE=edge" />
           <meta
             name="description"
