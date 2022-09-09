@@ -23,7 +23,7 @@ class MyDocument extends Document {
       <Html lang="en">
         <Head>
           <link rel="canonical" href="https://www.taylorjeandev.netlify.app/" />
-          <link rel="shortcut icon" href="/pwa/IMG_3750-removebg-preview.png.png" type="/pwa/IMG_3750-removebg-preview.png" />
+          <link rel="shortcut icon" href="/headshot.png" type="/headshot.png" />
           <meta httpEquiv="X-UA-Compatible" content="IE=edge" />
           <meta
             name="description"
@@ -41,10 +41,10 @@ class MyDocument extends Document {
             content="Portfolio, side projects, the blog of Taylor Jean and among other things"
           />
           <meta property="og:url" content="https://www.taylorjeandev.netlify.app" />
-          {/* <meta
+          <meta
             property="og:image"
-            content="https://www.candidosales.me/card-social-media-1200.png"
-          /> */}
+            content="/themecard.png"
+          />
           <meta property="og:image:width" content="1200" />
           <meta property="og:image:height" content="730" />
           <meta name="twitter:creator" content="@taylorjeandev" />
@@ -52,7 +52,7 @@ class MyDocument extends Document {
           <meta name="twitter:card" content="summary_large_image" />
           <meta
             name="twitter:image"
-            content="https://www.candidosales.me/card-social-media-1200.png"
+            content="/themecard.png"
           />
           <meta name="theme-color" content="#ffffff" />
           <link rel="shortcut icon" href="/pwa/icon-512.png" />

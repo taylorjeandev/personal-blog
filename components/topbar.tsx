@@ -20,7 +20,7 @@ const Topbar = ({changeLanguage, locale}): ReactElement => {
     <header className="header">
       <div className="avatar">
         <Image
-          src="/pwa/IMG_3750-removebg-preview.png"
+          src="/pwa/headshot.png"
           width={150}
           height={150}
           alt="Profile image"
