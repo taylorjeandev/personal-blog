@@ -45,8 +45,8 @@ class MyDocument extends Document {
             property="og:image"
             content="/pwa/themecard.png"
           />
-          <meta property="og:image:width" content="1200" />
-          <meta property="og:image:height" content="730" />
+          <meta property="og:image:width" content="2530" />
+          <meta property="og:image:height" content="1230" />
           <meta name="twitter:creator" content="@taylorjeandev" />
           <meta name="twitter:site" content="@taylorjeandev" />
           <meta name="twitter:card" content="summary_large_image" />
