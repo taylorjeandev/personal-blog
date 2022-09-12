@@ -174,7 +174,7 @@ export const extras = [
     imageUrl: "/Hair Salon Photo 1.jpeg",
     imageAlt: "Hair Salon Clone",
     title: "Hair Salon Clone",
-    description: "A responsive web design built to display the professionalism of each stylist",
+    description: "A web page built to display the professionalism of each hair stylist and promote creativity",
     url: "https://ayeshashairsalon.netlify.app/",
     techs: [
       {
