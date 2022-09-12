@@ -25,23 +25,31 @@ export const portfolio = [
       },
     ],
   },
-  // {
-  //   imageUrl: "/material-time-picker.gif",
-  //   imageAlt: "Material Time Picker",
-  //   title: "Material Time Picker",
-  //   description: "A simple time picker component using Angular Material.",
-  //   url: "https://github.com/candidosales/material-time-picker",
-  //   techs: [
-  //     {
-  //       icon: "angular",
-  //       name: "Angular",
-  //     },
-  //     {
-  //       icon: "npm",
-  //       name: "NPM",
-  //     },
-  //   ],
-  // },
+  {
+    imageUrl: "/money-bags-homepage.png",
+    imageAlt: "Crypto Portfolio Tracker",
+    title: "Crypto Portfolio Tracker",
+    description: "A crypto portfolio tracker CRUD app.",
+    url: "https://github.com/taylorjeandev/crypto-tracker",
+    techs: [
+      {
+        icon: "javascript",
+        name: "Javascript",
+      },
+      {
+        icon: "node",
+        name: "Node",
+      },
+      {
+        icon: "mongodb",
+        name: "MongoDB",
+      },
+      {
+        icon: "npm",
+        name: "NPM",
+      },
+    ],
+  },
   // {
   //   imageUrl: "/figma-plugin-svelte-vite.png",
   //   imageAlt: "Figma Plugin + Svelte + Vite + Typescript    ",
