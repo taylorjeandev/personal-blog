@@ -355,24 +355,24 @@ export const volunteer = [
       },
     ],
   },
-  // {
-  //   imageUrl: "/mapa-aborto-legal.gif",
-  //   imageAlt: "Mapa Aborto Legal",
-  //   title: "Mapa Aborto Legal",
-  //   description:
-  //     "All about legal abortion in 🇧🇷 - What situations are allowed, what is needed, which hospitals to turn to and more information",
-  //   url: "https://mapaabortolegal.org/",
-  //   techs: [
-  //     {
-  //       icon: "wordpress",
-  //       name: "Wordpress",
-  //     },
-  //     {
-  //       icon: "php",
-  //       name: "PHP",
-  //     },
-  //   ],
-  // },
+  {
+    imageUrl: "/projectlimelight.png",
+    imageAlt: "Project Limelight",
+    title: "Recorded backing tracks for Project Limelight project",
+    description:
+      "The mission of Project Limelight Society is to create an environment that will allow youth to develop a strong sense of self and to unleash their imagination.",
+    url: "https://www.projectlimelightsociety.org/",
+   
+  },
+  {
+    imageUrl: "/campgoodtimes.png",
+    imageAlt: "Camp Good Times",
+    title: "Recorded fun songs with Camp Good Times. A canadian cancer society",
+    description:
+      "An unforgettable, empowering experience for children and teens with cancer and their families.",
+    url: "http://campgoodtimes.org/",
+   
+  },
 ];
 
 export const posts = [
