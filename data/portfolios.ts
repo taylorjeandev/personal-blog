@@ -391,14 +391,14 @@ export const posts = [
     description: "The things that inspired me, and what keeps me driven",
     url: "https://medium.com/@taylorjeandev/my-journey-7f9f629f01b1",
   },
-  // {
-  //   imageUrl: "/post-medicina.jpeg",
-  //   imageAlt: "O que a medicina pode aprender com a programação?",
-  //   title: "O que a medicina pode aprender com a programação?",
-  //   description:
-  //     "Esse texto são apenas reflexões que foram geradas durante diálogos entre um engenheiro de software e uma médica.",
-  //   url: "https://medium.com/@candidosales/o-que-a-medicina-pode-aprender-com-a-programa%C3%A7%C3%A3o-4ca71bd94fc4",
-  // },
+  {
+    imageUrl: "/javascriptcanva.png",
+    imageAlt: "Javascript",
+    title: "My interpertation of Javascript",
+    description:
+      "What is Javascript, what can we use it for, and how great is it really?",
+    url: "https://medium.com/@taylorjeandev/what-is-javascript-11cf8c0b9784",
+  },
   // {
   //   imageUrl: "/post-1.png",
   //   imageAlt: "How I got a job offer in Canada",
