@@ -384,13 +384,13 @@ export const posts = [
       "A lecture about the pros & cons of using the MVC architecture",
     url: "https://medium.com/@taylorjeandev/mvc-architecture-2d4ebece6d32",
   },
-  // {
-  //   imageUrl: "/post-strapi-railway.webp",
-  //   imageAlt: "Deploying Strapi 4 to Railway",
-  //   title: "Deploying Strapi 4 to Railway",
-  //   description: "Step by step on how to deploying Strapi 4 to Railway",
-  //   url: "https://dev.to/candidosales/deploying-strapi-4-to-railway-589b",
-  // },
+  {
+    imageUrl: "/linkedinbanner.png",
+    imageAlt: "My Journey",
+    title: "My Journey Into Tech",
+    description: "The things that inspired me, and what keeps me driven",
+    url: "https://medium.com/@taylorjeandev/my-journey-7f9f629f01b1",
+  },
   // {
   //   imageUrl: "/post-medicina.jpeg",
   //   imageAlt: "O que a medicina pode aprender com a programação?",
