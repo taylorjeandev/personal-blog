@@ -4,7 +4,7 @@ export const portfolio = [
     imageAlt: "Cost Cash Budget App",
     title: "Cost Cash Budget App",
     description:
-      "Cost Cash Budget App is a simple budget-tracking app built using the MVC Architecture with 'authorization' so folx can sign up, customize & personalize the app",
+      "Cost Cash Budget App is a simple budget-tracking app built using the MVC Architecture",
     url: "https://github.com/taylorjeandev/todo-mvc-auth-local",
     techs: [
       {
