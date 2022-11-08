@@ -30,7 +30,7 @@ export const portfolio = [
     imageAlt: "Crypto Portfolio Tracker",
     title: "Crypto Portfolio Tracker",
     description: "A crypto portfolio tracker CRUD app.",
-    url: "https://github.com/taylorjeandev/crypto-tracker",
+    url: "https://crypto-portfolio-heroku.herokuapp.com/",
     techs: [
       {
         icon: "javascript",
