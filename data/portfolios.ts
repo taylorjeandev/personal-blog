@@ -4,8 +4,8 @@ export const portfolio = [
     imageAlt: "Cost Cash Budget App",
     title: "Cost Cash Budget App",
     description:
-      "Cost Cash Budget App is a simple budget-tracking app built using the MVC Architecture",
-    url: "https://github.com/taylorjeandev/todo-mvc-auth-local",
+      "Cost Cash Budget App is a simple budget-tracking app built using Node, Express and MongoDB.",
+    url: "https://costcashapp.onrender.com/",
     techs: [
       {
         icon: "bootstrap",
@@ -29,8 +29,8 @@ export const portfolio = [
     imageUrl: "/money-bags-homepage.png",
     imageAlt: "Crypto Portfolio Tracker",
     title: "Crypto Portfolio Tracker",
-    description: "A crypto portfolio tracker CRUD app.",
-    url: "https://crypto-portfolio-heroku.herokuapp.com/",
+    description: "A crypto portfolio tracker CRUD app fetching data from CoinGecko API.",
+    url: "https://crypto-tracker.onrender.com",
     techs: [
       {
         icon: "javascript",
